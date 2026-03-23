@@ -1,2 +1,2 @@
 # google clone
- This project is based on clone of google web page.
+ This project is a clone of google web page.
